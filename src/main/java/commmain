@@ -1,0 +1,19 @@
+//    private void epilepsy(int millis) {
+//        fillTransition(millis, Color.GOLD, Color.RED, menuPane, isStopped);
+//    }
+//
+//    private void fillTransition(double millis, Color colorTo, Color colorFrom, Region region, boolean isStopped) {
+//        if (!isStopped) {
+//            JFXFillTransition fillTransition1 = new JFXFillTransition(Duration.millis(millis), region);
+//            fillTransition1.setFromValue(colorFrom);
+//            fillTransition1.setToValue(colorTo);
+//            //fillTransition1.setDelay(Duration.millis(millis));
+//            fillTransition1.setOnFinished(actionEvent1 -> {
+//                fillTransition(millis, colorTo, colorFrom, region, this.isStopped);
+//            });
+//            fillTransition1.play();
+//        }
+//    }
+
+
+
